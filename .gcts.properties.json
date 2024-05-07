@@ -1,0 +1,14 @@
+{
+  "name": "z_test_repo",
+  "version": "1.0.0",
+  "description": "Z_TEST_REPO",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/FA00E9B6FA081EDF82A5F909F1AE3DE4_0"
+  }
+}
